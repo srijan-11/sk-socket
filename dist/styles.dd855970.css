@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+  background-color: black;
+}
+
+#game_screen {
+  background: url("/background.94e58a95.png");
+  background-size: 400px 600px;
+  /* background-position: 10px 10px; */
+  background-repeat: no-repeat;
+}
+
+
+/*# sourceMappingURL=/styles.dd855970.css.map */
